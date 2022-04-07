@@ -5,6 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
+<H2>Conference papers</H2>
+1. P. Tarafder, M. Kang and W. Choi, "A Comparative Study on Centralized MAC Protocols for 60 GHz mmWave Communications," 2021 International Conference on Information and Communication Technology Convergence (ICTC), 2021, pp. 888-892, doi: 10.1109/ICTC52510.2021.9620829.
+2. A. S. Meem, H. Bukenya, A. Faisal, P. Tarafder and A. K. M Abdul Malek Azad, "A qualitative study of current trends in microwave wireless power transmission including current advancements and challenges," 2019 IEEE Region 10 Symposium (TENSYMP), 2019, pp. 367-372, doi: 10.1109/TENSYMP46218.2019.8971375.
+
+<H2>Dissertation</H2>
+1. http://dspace.bracu.ac.bd/xmlui/handle/10361/12067
+
+<H2>In preperation</H2>
+1. MAC Protocols for mmWave  Communication: A Comparative  Survey
+2. An LSTM-GRU Model-Based Channel Prediction Approach for High-Quantization Massive MIMO System
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
