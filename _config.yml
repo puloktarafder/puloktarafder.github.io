@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Pulok Tarafder"
-  avatar           : "https://github.com/puloktarafder/puloktarafder.github.io/blob/7705c2d0f20b2f426284839e4fa42e364d6f5ccf/images/20220420_170201235.jpg"
+  avatar           : "https://raw.githubusercontent.com/puloktarafder/puloktarafder.github.io/7705c2d0f20b2f426284839e4fa42e364d6f5ccf/images/20220420_170201235.jpg"
   bio              : "Master's student, Dept. of Computer Engineering, Chosun University"
   location         : "Gwangju, South Korea"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=HdjdcNYAAAAJ&hl=en"
   email            : "pulok@chosun.kr"
   researchgate     : "https://www.researchgate.net/profile/Pulok-Tarafder"
   uri              :
