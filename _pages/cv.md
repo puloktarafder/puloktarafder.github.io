@@ -11,30 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Computer Engineering, Chosun University, South Korea, 2022 (expected)
+* B.S. in Electrical and Electronic Engineering, Brac University, Bangladesh, 2019
 
-Work experience
+
+Research experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Mar 2021 - present: Graduate Research Assistant (Smart Networking Lab, Chosun University)
+  * Research Interests:
+    * Massive MIMO, mmWave, Full-duplex, Applications of deep learning and reinforcement learning in wireless communication
+  * Supervisor: Prof. Wooyeol Choi
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2019 - Feb 2021: Research Assistant (Control and applications research centre, Brac University)
+  * Projects Involved: 
+    * Torque sensor based solar powered electric wheelchair
+    * Smart solar electric stove
+  * Duties included: 
+    * Instructor for EEE202 Lab (Fall 19)
+    * Preparing project proposals, project reports, annual reports, reviewing domestic conference papers
+  * Supervisor: Prof. A.K.M Abdul Malek Azad
   
 Skills
 ======
-* Skill 1
-* Skill 2
+* Software: Python (TensorFlow, Keras, PyTorch, OpenAI Gym, NumPy), Matlab, LATEX, Git, Java, Ansys Electronics (HFSS), Proteus, PSpice, Microwind (layout), DSCH2, Arduino
+* Hardware: Advance Circuits, Arduino-based Hardware, Microcontroller/Microprocessor-based IoT Devices
+
+<!-- * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
