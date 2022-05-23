@@ -16,8 +16,7 @@ author_profile: true
 1. http://dspace.bracu.ac.bd/xmlui/handle/10361/12067
 
 <H2>In preperation</H2>
-1. MAC Protocols for mmWave  Communication: A Comparative  Survey
-2. An LSTM-GRU Model-Based Channel Prediction Approach for High-Quantization Massive MIMO System
+1. An LSTM-GRU Model-Based Channel Prediction Approach for High-Quantization Massive MIMO System
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
