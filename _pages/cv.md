@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
-[My full CV can be found here](https://github.com/puloktarafder/puloktarafder.github.io/blob/aa07008a5a338e131ecabbd5280810eb3638f522/files/Pulok_CV.pdf)
+[My full CV can be found here](https://github.com/puloktarafder/puloktarafder.github.io/blob/master/files/Pulok_CV.pdf)
 
 Education
 ======
-* M.S. in Computer Engineering, Chosun University, South Korea, 2022 (expected)
+* M.S. in Computer Engineering, Chosun University, South Korea, December 2022 (expected)
 * B.S. in Electrical and Electronic Engineering, Brac University, Bangladesh, 2019
 
 
