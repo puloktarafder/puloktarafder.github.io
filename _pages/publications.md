@@ -18,6 +18,7 @@ author_profile: true
 <H2>In preperation</H2>
 1. An LSTM-GRU Model-Based Channel Prediction Approach for High-Quantization Massive MIMO System
 2. Channel Estimation in 5G and Beyond Wireless Communication: A Comprehensive Survey
+3. Low-Resolution Massive MIMO Channel Estimation With a Residual Attention-Based Convolutional Blind Denoising Network
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
