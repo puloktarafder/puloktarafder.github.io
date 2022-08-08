@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-[My full CV can be found here](https://chosunkr-my.sharepoint.com/:b:/g/personal/pulok_chosun_kr/EWaDwDHpwgdBqAMuk4Sm6X0BUtt6LYe2lEvYtgFnIow2tw?e=bqfnwe)
+[My full CV can be found here](https://github.com/puloktarafder/puloktarafder.github.io/blob/master/files/Pulok_CV.pdf)
 
 Education
 ======
