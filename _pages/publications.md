@@ -16,7 +16,7 @@ author_profile: true
 1. http://dspace.bracu.ac.bd/xmlui/handle/10361/12067
 
 <H2>In preperation</H2>
-1. Two Deep Learning Based Channel Estimation Approach for Massive MIMO System
+1. Deep Learning Based Channel Estimation Approach for Massive MIMO System
 2. Channel Estimation Survey
 
 
