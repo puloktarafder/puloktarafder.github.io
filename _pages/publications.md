@@ -15,9 +15,11 @@ author_profile: true
 <H2>Dissertation</H2>
 1. http://dspace.bracu.ac.bd/xmlui/handle/10361/12067
 
-<H2>In preperation</H2>
+<H2>Under review</H2>
 1. Deep Learning Based Channel Estimation Approach for Massive MIMO System
-2. Channel Estimation Survey
+
+<H2>In preperation</H2>
+1. Channel Estimation Survey
 
 
 {% if author.googlescholar %}
