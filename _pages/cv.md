@@ -19,7 +19,11 @@ Education
 
 Research experience
 ======
-* Mar 2021 - present: Graduate Research Assistant (Smart Networking Lab, Chosun University)
+* Jan 2023 - present: Graduate Research Assistant (Wireless Communications Systems (WiCS), Howard University)
+  * Research Interests:
+    * Data Driven Communications for THz-band Communication Network, Applications of deep learning and reinforcement learning in wireless communication
+  * Supervisor: Prof. Imtiaz Ahmed, Danda B. Rawat
+* Mar 2021 - Dec 2022: Graduate Research Assistant (Smart Networking Lab, Chosun University)
   * Research Interests:
     * Massive MIMO, mmWave, Full-duplex, Applications of deep learning and reinforcement learning in wireless communication
   * Supervisor: Prof. Wooyeol Choi
