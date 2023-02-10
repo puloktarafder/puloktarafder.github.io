@@ -16,8 +16,8 @@ author_profile: true
 1. http://dspace.bracu.ac.bd/xmlui/handle/10361/12067
 
 <H2>Under review</H2>
-1. Deep Learning Based Channel Estimation Approach for Massive MIMO System
-
+1. Deep Reinforcement Learning-Based Coordinated Beamforming for mmWave Massive MIMO Vehicular Network
+2. LSTM-GRU Model-Based Channel Prediction for High Quantization Massive MIMO System
 <H2>In preperation</H2>
 1. Channel Estimation Survey
 

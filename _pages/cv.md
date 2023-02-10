@@ -12,7 +12,8 @@ redirect_from:
 
 Education
 ======
-* M.S. in Computer Engineering, Chosun University, South Korea, December 2022 (expected)
+* PhD in Electrical Engineering, Howard University, Washington, DC, USA, since spring 2023
+* M.S. in Computer Engineering, Chosun University, South Korea, December 2022
 * B.S. in Electrical and Electronic Engineering, Brac University, Bangladesh, 2019
 
 
