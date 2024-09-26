@@ -15,8 +15,19 @@ redirect_from:
 
 News!
 ======
-- (Summer 2023) Interning at Amazon as Data Scientist Intern 
-- I was selected as a reviewer for ICAIIC 2022
+
+<div style="font-family: 'Arial', sans-serif; line-height: 1.6;">
+
+- <span style="color: #1E90FF;">[Sept. 2024]</span> My first PhD paper has been accepted to the <strong>IEEE Military Communications Conference (MILCOM)</strong>, Washington, DC.
+  
+- <span style="color: #1E90FF;">[Aug. 2024]</span> Visited <strong>Dr. Andreas's lab</strong> at the <strong>University of Southern California</strong> to explore their <strong>THz RF hardware testbed</strong>, as part of efforts to set up a <strong>THz hardware lab for a 5G testbed</strong> at WiCS, Howard U.
+
+- <span style="color: #1E90FF;">[Summer 2023]</span> Interned at <strong>Amazon</strong> as a <strong>Data Scientist Intern</strong>, contributing to impactful data-driven projects.
+  
+- <span style="color: #1E90FF;">[2022]</span> Selected as a reviewer for the prestigious <strong>ICAIIC 2022</strong> conference.
+
+</div>
+
 
 
 
