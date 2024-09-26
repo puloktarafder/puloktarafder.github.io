@@ -14,11 +14,11 @@ redirect_from:
 - I am currently a second year PhD student at the department of Electrical Engineering and Computer Science (EECS) at Howard University, Washington, DC, USA. I also work as a Graduate Research Assistant at Wireless Communications Systems (WiCS) Lab at the Dept. of EECS, Howard University under the supervision of Professor <a href="https://www.driahmed.com/home/" target="_blank">Imtiaz Ahmed</a> and Professor <a href="https://www.rawatonline.com/" target="_blank">Danda B. Rawat</a> at the same department. My primary research interest is focused on Data driven communications for THz-band communication network, applications of artificial intelligence, and machine learning in wireless communication. Previously I was a master's student and Graduate Research Assistant at the department of computer engineering at Chosun University, Gwangju, South Korea. Earlier, I completed my bachelor's in electrical and electronic engineering from Brac University, Dhaka, Bangladesh in 2019. Prior to starting my master's program, I worked as a research assistant at the Control and Applications Research Centre (CARC) in Brac University
 - Meet the WiCS team <a href="https://www.driahmed.com/people" style="color: #FF4500; text-decoration: none;" target="_blank">[here]</a>
 
+<hr style="border: 0; height: 2px; background: linear-gradient(to right, #1E90FF, #FF4500); margin-top: 30px; margin-bottom: 30px;">
 
 
 News!
 ======
-
 <ul style="font-family: 'Arial', sans-serif; line-height: 1.8; padding-left: 20px;">
 
   <li><span style="color: #ff621e;">[Sept. 2024]</span> <strong>My first PhD paper</strong> has been accepted to the <strong>IEEE Military Communications Conference (MILCOM)</strong>, Washington, DC.</li>
@@ -39,7 +39,9 @@ News!
 
   <li><span style="color: #1E90FF;">[Mar. 2023]</span> Selected as a reviewer for the prestigious <strong>2023 European Conference on Networks and Communications & 6G Summit</strong>.</li>
 
-  <li><span style="color: #1E90FF;">[Jan. 2023]</span> I started my PhD at Howard University. I will be jointly supervised by Dr. Ahmed and Dr. Rawat.</strong>.</li>
+  <li><span style="color: #ff621e;">[Jan. 2023]</span> I started my PhD at Howard University. I will be jointly supervised by Dr. Ahmed and Dr. Rawat.</li>
+
+  <li><span style="color: #ff621e;">[Dec. 2022]</span> I defended my MS thesis at Chosun University.</li>
 
   <li><span style="color: #1E90FF;">[2021]</span> Selected as a reviewer for the <strong>ICAIIC 2022</strong> conference.</li>
 
