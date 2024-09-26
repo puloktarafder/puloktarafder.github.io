@@ -20,7 +20,7 @@ News!
 
 <ul style="font-family: 'Arial', sans-serif; line-height: 1.8; padding-left: 20px;">
 
-  <li><span style="color: #1E90FF;">[Sept. 2024]</span> <strong>My first PhD paper</strong> has been accepted to the <strong>IEEE Military Communications Conference (MILCOM)</strong>, Washington, DC.</li>
+  <li><span style="color: #ff621e;">[Sept. 2024]</span> <strong>My first PhD paper</strong> has been accepted to the <strong>IEEE Military Communications Conference (MILCOM)</strong>, Washington, DC.</li>
 
   <li><span style="color: #1E90FF;">[Aug. 2024]</span> <strong>Visited Dr. Andreas's lab</strong> at the <strong>University of Southern California</strong> to explore their <strong>THz RF hardware testbed</strong>, as part of efforts to set up a <strong>THz hardware lab for a 5G testbed</strong> at WiCS, Howard U.</li>
 
@@ -30,7 +30,7 @@ News!
 
   <li><span style="color: #1E90FF;">[Sept. 2023]</span> Selected as a reviewer for the prestigious <strong>2023 IEEE Globecom Workshops</strong> conference.</li>
 
-  <li><span style="color: #1E90FF;">[Summer 2023]</span> <strong>Interned at Amazon</strong> as a Data Scientist Intern at Bellevue, WA.</li>
+  <li><span style="color: #ff621e;">[Summer 2023]</span> <strong>Interned at Amazon</strong> as a Data Scientist Intern at Bellevue, WA.</li>
 
   <li><span style="color: #1E90FF;">[Jul. 2023]</span> Selected as a reviewer for the prestigious <strong>2023 IEEE MILCOM Workshop</strong> conference.</li>
 
