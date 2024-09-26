@@ -12,7 +12,7 @@ redirect_from:
 
 
 - I am currently a second year PhD student at the department of Electrical Engineering and Computer Science (EECS) at Howard University, Washington, DC, USA. I also work as a Graduate Research Assistant at Wireless Communications Systems (WiCS) Lab at the Dept. of EECS, Howard University under the supervision of Professor <a href="https://www.driahmed.com/home/" target="_blank">Imtiaz Ahmed</a> and Professor <a href="https://www.rawatonline.com/" target="_blank">Danda B. Rawat</a> at the same department. My primary research interest is focused on Data driven communications for THz-band communication network, applications of artificial intelligence, and machine learning in wireless communication. Previously I was a master's student and Graduate Research Assistant at the department of computer engineering at Chosun University, Gwangju, South Korea. Earlier, I completed my bachelor's in electrical and electronic engineering from Brac University, Dhaka, Bangladesh in 2019. Prior to starting my master's program, I worked as a research assistant at the Control and Applications Research Centre (CARC) in Brac University
-- Meet the WiCS team <a href="https://ieeexplore.ieee.org/document/10089512" style="color: #FF4500; text-decoration: none;" target="_blank">[here]</a>
+- Meet the WiCS team <a href="https://www.driahmed.com/people" style="color: #FF4500; text-decoration: none;" target="_blank">[here]</a>
 
 
 
