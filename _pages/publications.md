@@ -5,22 +5,28 @@ permalink: /publications/
 author_profile: true
 ---
 
-<H2>Journals</H2>
-1. Islam Helmy, Pulok Tarafder and Wooyeol Choi, "LSTM-GRU model-based channel prediction for one-bit massive MIMO system," IEEE Transactions on Vehicular Technology, vol. 72, no. 8, August 2023. (IF: 6.8 / JCR 2022) [[doi](https://ieeexplore.ieee.org/document/10089512)]
-2. Pulok Tarafder and Wooyeol Choi, "Deep reinforcement learning-based coordinated beamforming for mmWave massive MIMO vehicular networks," Sensors, special issue on "Wireless Sensors and Wireless Sensor Networks for Engineering Applications", vol. 23, no. 5, article no. 2772, March 2023. (IF: 3.9 / JCR 2022) [[doi](https://www.mdpi.com/1424-8220/23/5/2772)]
-3. Pulok Tarafder and Wooyeol Choi, "MAC protocols for mmWave communication: A comparative survey," Sensors, special issue on "Theory and Techniques for the Deployment of Future Wireless Sensor Networks in 5G and Beyond", vol. 22, no. 10, article no. 3853, May 2022. (IF: 3.847 / JCR 2021). [[doi](https://www.mdpi.com/1424-8220/22/10/3853)]
+<H2 style="color: #1E90FF; font-family: 'Arial', sans-serif;">Journals</H2>
+<ol style="line-height: 1.8;">
+  <li>Islam Helmy, <strong>Pulok Tarafder</strong> and Wooyeol Choi, "LSTM-GRU model-based channel prediction for one-bit massive MIMO system," <em>IEEE Transactions on Vehicular Technology</em>, vol. 72, no. 8, August 2023. (IF: 6.8 / JCR 2022) [[doi](https://ieeexplore.ieee.org/document/10089512)]</li>
+  <li><strong>Pulok Tarafder</strong> and Wooyeol Choi, "Deep reinforcement learning-based coordinated beamforming for mmWave massive MIMO vehicular networks," <em>Sensors</em>, special issue on "Wireless Sensors and Wireless Sensor Networks for Engineering Applications", vol. 23, no. 5, article no. 2772, March 2023. (IF: 3.9 / JCR 2022) [[doi](https://www.mdpi.com/1424-8220/23/5/2772)]</li>
+  <li><strong>Pulok Tarafder</strong> and Wooyeol Choi, "MAC protocols for mmWave communication: A comparative survey," <em>Sensors</em>, special issue on "Theory and Techniques for the Deployment of Future Wireless Sensor Networks in 5G and Beyond", vol. 22, no. 10, article no. 3853, May 2022. (IF: 3.847 / JCR 2021). [[doi](https://www.mdpi.com/1424-8220/22/10/3853)]</li>
+</ol>
 
-<H2>Conference papers</H2>
-1. Pulok Tarafder, Moonsoo Kang and Wooyeol Choi, "A comparative study on centralized MAC protocols for 60 GHz mmWave communications," International Conference on Information and Communication Technology Convergence (ICTC), Jeju, Republic of Korea, October 20-22, 2021, pp. 888-892, doi: 10.1109/ICTC52510.2021.9620829.
-2. Afreen Sultana Meem, Henry Bukenya, Abrar Faisal, Pulok Tarafder and A. K. M Abdul Malek Azad, "A qualitative study of current trends in microwave wireless power transmission including current advancements and challenges," 2019 IEEE Region 10 Symposium (TENSYMP), Kolkata, India, 2019, pp. 367-372, doi: 10.1109/TENSYMP46218.2019.8971375.
+<H2 style="color: #1E90FF; font-family: 'Arial', sans-serif;">Conference Papers</H2>
+<ol style="line-height: 1.8;">
+    <li><strong>Pulok Tarafder</strong>,Imtiaz Ahmed, Danda B. Rawat, Ramesh Annavajjala, Kumar Vijay Mishra, "Deep Learning Model-Based Channel Estimation for THz Band Massive MIMO with RF Impairments," <em>IEEE Military Communications Conference (MILCOM)</em>, Washington, DC, Nov. 2024. Preprint available on arXiv: [[arXiv](https://arxiv.org/abs/2409.16420)]</li>
+  <li><strong>Pulok Tarafder</strong>, Moonsoo Kang and Wooyeol Choi, "A comparative study on centralized MAC protocols for 60 GHz mmWave communications," <em>International Conference on Information and Communication Technology Convergence (ICTC)</em>, Jeju, Republic of Korea, October 20-22, 2021, pp. 888-892, doi: 10.1109/ICTC52510.2021.9620829.</li>
+  <li>Afreen Sultana Meem, Henry Bukenya, Abrar Faisal, <strong>Pulok Tarafder</strong> and A. K. M Abdul Malek Azad, "A qualitative study of current trends in microwave wireless power transmission including current advancements and challenges," <em>2019 IEEE Region 10 Symposium (TENSYMP)</em>, Kolkata, India, 2019, pp. 367-372, doi: 10.1109/TENSYMP46218.2019.8971375.</li>
 
-<H2>Dissertation</H2>
-1. http://dspace.bracu.ac.bd/xmlui/handle/10361/12067
+</ol>
 
-
+<H2 style="color: #1E90FF; font-family: 'Arial', sans-serif;">Dissertation</H2>
+<ol style="line-height: 1.8;">
+  <li><a href="http://dspace.bracu.ac.bd/xmlui/handle/10361/12067" style="color: #FF4500; text-decoration: none;">Pulok Tarafder, "Deep Learning for mmWave Communications: A Survey"</a>, BRAC University, 2019.</li>
+</ol>
 
 {% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+  <p>You can also find my articles on <a href="{{author.googlescholar}}" style="color: #FF4500; text-decoration: none;"><u>my Google Scholar profile</u></a>.</p>
 {% endif %}
 
 {% include base_path %}
