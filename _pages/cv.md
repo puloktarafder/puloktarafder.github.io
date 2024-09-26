@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<p style="text-align: center; font-size: 18px; color: #1E90FF;">[My full CV can be found here](https://github.com/puloktarafder/puloktarafder.github.io/blob/master/files/Pulok_CV.pdf)</p>
+<a href="[https://www.driahmed.com/people](https://github.com/puloktarafder/puloktarafder.github.io/blob/master/files/Pulok_CV.pdf)" style="color: #FF4500; text-decoration: none;" target="_blank">[My full CV can be found here]</a>
 
 <h2 style="color: #1E90FF; font-family: 'Arial', sans-serif;">Education</h2>
 <ul style="line-height: 1.8; list-style-type: none; padding-left: 0;">
