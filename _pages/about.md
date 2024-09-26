@@ -18,14 +18,13 @@ redirect_from:
 News!
 ======
 
-<ul style="font-family: 'Arial', sans-serif; line-height: 1.8; list-style-type: none; padding-left: 0;">
+<ul style="font-family: 'Arial', sans-serif; line-height: 1.8; padding-left: 20px;">
 
-  <li><span style="color: #1E90FF;">[Sept. 2024]</span> <strong>My first PhD paper has been accepted to the <strong>IEEE Military Communications Conference (MILCOM)</strong>, Washington, DC.</li>
+  <li><span style="color: #1E90FF;">[Sept. 2024]</span> <strong>My first PhD paper</strong> has been accepted to the <strong>IEEE Military Communications Conference (MILCOM)</strong>, Washington, DC.</li>
 
-  <li><span style="color: #1E90FF;">[Aug. 2024]</span> <strong>Visited <strong>Dr. Andreas's lab</strong> at the <strong>University of Southern California</strong> to explore their <strong>THz RF hardware testbed</strong>, as part of efforts to set up a <strong>THz hardware lab for a 5G testbed</strong> at WiCS, Howard U.</li>
+  <li><span style="color: #1E90FF;">[Aug. 2024]</span> <strong>Visited Dr. Andreas's lab</strong> at the <strong>University of Southern California</strong> to explore their <strong>THz RF hardware testbed</strong>, as part of efforts to set up a <strong>THz hardware lab for a 5G testbed</strong> at WiCS, Howard U.</li>
 
-  
-  <li><span style="color: #1E90FF;">[Feb 2024]</span> Selected as a reviewer for the prestigious <strong>2024 IEEE ICC Workshop</strong> conference.</li>
+  <li><span style="color: #1E90FF;">[Feb. 2024]</span> Selected as a reviewer for the prestigious <strong>2024 IEEE ICC Workshop</strong> conference.</li>
 
   <li><span style="color: #1E90FF;">[Nov. 2023]</span> Selected as a reviewer for the prestigious <strong>2024 IEEE ICC</strong> conference.</li>
 
@@ -37,11 +36,12 @@ News!
 
   <li><span style="color: #1E90FF;">[Apr. 2021]</span> Selected as a reviewer for the <strong>2023 Biennial Symposium on Communications (BSC)</strong> conference.</li>
 
-  <li><span style="color: #1E90FF;">[Mar. 2023]</span> Selected as a reviewer for the prestigious <strong>2023 European Conference on Networks and Communications & 6G Summit</strong></li>
+  <li><span style="color: #1E90FF;">[Mar. 2023]</span> Selected as a reviewer for the prestigious <strong>2023 European Conference on Networks and Communications & 6G Summit</strong>.</li>
 
   <li><span style="color: #1E90FF;">[2021]</span> Selected as a reviewer for the <strong>ICAIIC 2022</strong> conference.</li>
 
 </ul>
+
 
 
 
