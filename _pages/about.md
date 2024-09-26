@@ -11,7 +11,8 @@ redirect_from:
 <p align="center"> &nbsp;<img src="https://external-preview.redd.it/hq0dafR-amZCjbi6SDhX5sbQtwbVnhnV-117WIcWQ6U.jpg?auto=webp&v=enabled&s=b0b27e7065a4de7edd52bf0e1dc2d719e78ac2fd" alt="Photo" style="height: 100px; width:100px;"></p>
 
 
-- I am currently a second year PhD student at the department of Electrical Engineering and Computer Science (EECS) at Howard University, Washington, DC, USA. I also work as a Graduate Research Assistant under the supervision of Professor <a href="https://www.driahmed.com/home/" target="_blank">Imtiaz Ahmed</a> and Professor <a href="https://www.rawatonline.com/" target="_blank">Danda B. Rawat</a> at the same department. My primary research interest is focused on Data driven communications for THz-band communication network, applications of artificial intelligence, and machine learning in wireless communication. Previously I was a master's student and Graduate Research Assistant at the department of computer engineering at Chosun University, Gwangju, South Korea. Earlier, I completed my bachelor's in electrical and electronic engineering from Brac University, Dhaka, Bangladesh in 2019. Prior to starting my master's program, I worked as a research assistant at the Control and Applications Research Centre (CARC) in Brac University
+- I am currently a second year PhD student at the department of Electrical Engineering and Computer Science (EECS) at Howard University, Washington, DC, USA. I also work as a Graduate Research Assistant at Wireless Communications Systems (WiCS) Lab at the Dept. of EECS, Howard University under the supervision of Professor <a href="https://www.driahmed.com/home/" target="_blank">Imtiaz Ahmed</a> and Professor <a href="https://www.rawatonline.com/" target="_blank">Danda B. Rawat</a> at the same department. My primary research interest is focused on Data driven communications for THz-band communication network, applications of artificial intelligence, and machine learning in wireless communication. Previously I was a master's student and Graduate Research Assistant at the department of computer engineering at Chosun University, Gwangju, South Korea. Earlier, I completed my bachelor's in electrical and electronic engineering from Brac University, Dhaka, Bangladesh in 2019. Prior to starting my master's program, I worked as a research assistant at the Control and Applications Research Centre (CARC) in Brac University
+- Meet the WiCS team <a href="https://ieeexplore.ieee.org/document/10089512" style="color: #FF4500; text-decoration: none;" target="_blank">[here]</a>
 
 
 
@@ -37,6 +38,8 @@ News!
   <li><span style="color: #1E90FF;">[Apr. 2021]</span> Selected as a reviewer for the <strong>2023 Biennial Symposium on Communications (BSC)</strong> conference.</li>
 
   <li><span style="color: #1E90FF;">[Mar. 2023]</span> Selected as a reviewer for the prestigious <strong>2023 European Conference on Networks and Communications & 6G Summit</strong>.</li>
+
+  <li><span style="color: #1E90FF;">[Jan. 2023]</span> I started my PhD at Howard University. I will be jointly supervised by Dr. Ahmed and Dr. Rawat.</strong>.</li>
 
   <li><span style="color: #1E90FF;">[2021]</span> Selected as a reviewer for the <strong>ICAIIC 2022</strong> conference.</li>
 
