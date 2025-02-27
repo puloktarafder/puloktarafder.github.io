@@ -21,7 +21,11 @@ author_profile: true
 
 <H2 style="color: #1E90FF; font-family: 'Arial', sans-serif;">Dissertation</H2>
 <ol style="line-height: 1.8;">
-  <li><a href="http://dspace.bracu.ac.bd/xmlui/handle/10361/12067" style="color: #FF4500; text-decoration: none;" target="_blank">Pulok Tarafder, "Deep Learning for mmWave Communications: A Survey"</a>, BRAC University, 2019.</li>
+  <li><a href="http://oak.chosun.ac.kr/handle/2020.oak/17610" style="color: #FF4500; text-decoration: none;" target="_blank">Pulok Tarafder, "Deep Reinforcement Learning-Based Coordinated Beamforming for mmWave Massive MIMO Vehicular Networks"</a>, Chosun University, 2019.</li>
+</ol>
+
+<ol style="line-height: 1.8;">
+  <li><a href="http://dspace.bracu.ac.bd/xmlui/handle/10361/12067" style="color: #FF4500; text-decoration: none;" target="_blank">Pulok Tarafder, "Comprehensive mathematical analysis and simulation design of a microwave wireless power transmission system"</a>, BRAC University, 2019.</li>
 </ol>
 
 {% if author.googlescholar %}
