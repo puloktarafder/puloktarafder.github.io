@@ -7,6 +7,9 @@ author_profile: true
 
 <H2 style="color: #1E90FF; font-family: 'Arial', sans-serif;">Journals</H2>
 <ol style="line-height: 1.8;">
+  
+  <li> <strong>Pulok Tarafder</strong>, Chanjun Chun, Arif Ullah, Yonggang Kim, and Wooyeol Choi, "Channel Estimation in 5G-and-Beyond Wireless Communication: A Comprehensive Survey," <em>IEEE Transactions on Vehicular Technology</em>, vol. 72, no. 8, August 2023. (IF: 6.8 / JCR 2022) <a href="https://mdpi.com/2079-9292/14/4/750" style="color: #FF4500; text-decoration: none;" target="_blank">[doi]</a></li>
+  
   <li>Islam Helmy, <strong>Pulok Tarafder</strong> and Wooyeol Choi, "LSTM-GRU model-based channel prediction for one-bit massive MIMO system," <em>IEEE Transactions on Vehicular Technology</em>, vol. 72, no. 8, August 2023. (IF: 6.8 / JCR 2022) <a href="https://ieeexplore.ieee.org/document/10089512" style="color: #FF4500; text-decoration: none;" target="_blank">[doi]</a></li>
   <li><strong>Pulok Tarafder</strong> and Wooyeol Choi, "Deep reinforcement learning-based coordinated beamforming for mmWave massive MIMO vehicular networks," <em>Sensors</em>, special issue on "Wireless Sensors and Wireless Sensor Networks for Engineering Applications", vol. 23, no. 5, article no. 2772, March 2023. (IF: 3.9 / JCR 2022) <a href="https://www.mdpi.com/1424-8220/23/5/2772" style="color: #FF4500; text-decoration: none;" target="_blank">[doi]</a></li>
   <li><strong>Pulok Tarafder</strong> and Wooyeol Choi, "MAC protocols for mmWave communication: A comparative survey," <em>Sensors</em>, special issue on "Theory and Techniques for the Deployment of Future Wireless Sensor Networks in 5G and Beyond", vol. 22, no. 10, article no. 3853, May 2022. (IF: 3.847 / JCR 2021) <a href="https://www.mdpi.com/1424-8220/22/10/3853" style="color: #FF4500; text-decoration: none;" target="_blank">[doi]</a></li>
