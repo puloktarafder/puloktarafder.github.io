@@ -25,7 +25,7 @@ News!
 
   <li><span style="color: #1E90FF;">[Aug. 2024]</span> <strong>Visited Dr. Andreas's lab</strong> at the <strong>University of Southern California</strong> to explore their <strong>THz RF hardware testbed</strong>, as part of efforts to set up a <strong>THz hardware lab for a 5G testbed</strong> at WiCS, Howard U.</li>
 
-  <li><span style="color: #ff621e;">[Aug. 2024]</span> <strong>Appointed as TA.</li>
+  <li><span style="color: #ff621e;">[Jan. 2023]</span> Appointed as a TA at EECS.</li>
 
   <li><span style="color: #1E90FF;">[Feb. 2024]</span> Selected as a reviewer for the prestigious <strong>2024 IEEE ICC Workshop</strong> conference.</li>
 
