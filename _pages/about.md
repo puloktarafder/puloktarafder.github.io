@@ -27,6 +27,10 @@ News!
 <ul style="font-family: 'Arial', sans-serif; line-height: 1.8; padding-left: 20px;">
 
 
+<li><span style="color: #1E90FF;">[July 2025]</span> My latest paper on 5G Digital Twin titled "Digital-Twin Empowered Site-Specific Radio Resource Management in 5G Aerial Corridor" is on arXiv. <a href="https://arxiv.org/abs/2507.04566" target="_blank"><strong>[Paper Link]</strong></a></li>
+
+
+
   <li><span style="color: #ff621e;">[Apr. 2025]</span> I have been awarded the prestigious <strong> Ernest E. Just-Percy L. Julian Graduate Research Assistant fellowship </strong> for the 2025-2026 academic year [only 20 students are awarded each year at HU]. </li>
 
   <li><span style="color: #ff621e;">[Sept. 2024]</span> <strong>My first PhD paper</strong> has been accepted to the <strong>IEEE Military Communications Conference (MILCOM)</strong>, Washington, DC.</li>
