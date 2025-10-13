@@ -5,6 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+<H2 style="color: #1E90FF; font-family: 'Arial', sans-serif;">Conference Papers</H2>
+<ol style="line-height: 1.8;">
+    <li><strong>Pulok Tarafder</strong>, Imtiaz Ahmed, Danda B. Rawat, Md. Zoheb Hassan, Kamrul Hasan, "DDigital-Twin Empowered Site-Specific Radio
+Resource Management in 5G Aerial Corridor," <em>IEEE Military Communications Conference (MILCOM)</em>, Los Angeles, CA, Oct. 2025. Preprint available on arXiv: <a href="https://arxiv.org/pdf/2507.04566" style="color: #FF4500; text-decoration: none;" target="_blank">[arXiv]</a></li>
+  <li><strong>Pulok Tarafder</strong>, Imtiaz Ahmed, Danda B. Rawat, Ramesh Annavajjala, Kumar Vijay Mishra, "Deep Learning Model-Based Channel Estimation for THz Band Massive MIMO with RF Impairments," <em>IEEE Military Communications Conference (MILCOM)</em>, Washington, DC, Nov. 2024. Preprint available on arXiv: <a href="https://arxiv.org/abs/2409.16420" style="color: #FF4500; text-decoration: none;" target="_blank">[arXiv]</a></li>
+  <li><strong>Pulok Tarafder</strong>, Moonsoo Kang and Wooyeol Choi, "A comparative study on centralized MAC protocols for 60 GHz mmWave communications," <em>International Conference on Information and Communication Technology Convergence (ICTC)</em>, Jeju, Republic of Korea, October 20-22, 2021, pp. 888-892, <a href="https://doi.org/10.1109/ICTC52510.2021.9620829" style="color: #FF4500; text-decoration: none;" target="_blank">[doi]</a></li>
+  <li>Afreen Sultana Meem, Henry Bukenya, Abrar Faisal, <strong>Pulok Tarafder</strong> and A. K. M Abdul Malek Azad, "A qualitative study of current trends in microwave wireless power transmission including current advancements and challenges," <em>2019 IEEE Region 10 Symposium (TENSYMP)</em>, Kolkata, India, 2019, pp. 367-372, <a href="https://doi.org/10.1109/TENSYMP46218.2019.8971375" style="color: #FF4500; text-decoration: none;" target="_blank">[doi]</a></li>
+</ol>
+
+
 <H2 style="color: #1E90FF; font-family: 'Arial', sans-serif;">Journals</H2>
 <ol style="line-height: 1.8;">
   
@@ -15,12 +26,7 @@ author_profile: true
   <li><strong>Pulok Tarafder</strong> and Wooyeol Choi, "MAC protocols for mmWave communication: A comparative survey," <em>Sensors</em>, special issue on "Theory and Techniques for the Deployment of Future Wireless Sensor Networks in 5G and Beyond", vol. 22, no. 10, article no. 3853, May 2022. (IF: 3.847 / JCR 2021) <a href="https://www.mdpi.com/1424-8220/22/10/3853" style="color: #FF4500; text-decoration: none;" target="_blank">[doi]</a></li>
 </ol>
 
-<H2 style="color: #1E90FF; font-family: 'Arial', sans-serif;">Conference Papers</H2>
-<ol style="line-height: 1.8;">
-  <li><strong>Pulok Tarafder</strong>, Imtiaz Ahmed, Danda B. Rawat, Ramesh Annavajjala, Kumar Vijay Mishra, "Deep Learning Model-Based Channel Estimation for THz Band Massive MIMO with RF Impairments," <em>IEEE Military Communications Conference (MILCOM)</em>, Washington, DC, Nov. 2024. Preprint available on arXiv: <a href="https://arxiv.org/abs/2409.16420" style="color: #FF4500; text-decoration: none;" target="_blank">[arXiv]</a></li>
-  <li><strong>Pulok Tarafder</strong>, Moonsoo Kang and Wooyeol Choi, "A comparative study on centralized MAC protocols for 60 GHz mmWave communications," <em>International Conference on Information and Communication Technology Convergence (ICTC)</em>, Jeju, Republic of Korea, October 20-22, 2021, pp. 888-892, <a href="https://doi.org/10.1109/ICTC52510.2021.9620829" style="color: #FF4500; text-decoration: none;" target="_blank">[doi]</a></li>
-  <li>Afreen Sultana Meem, Henry Bukenya, Abrar Faisal, <strong>Pulok Tarafder</strong> and A. K. M Abdul Malek Azad, "A qualitative study of current trends in microwave wireless power transmission including current advancements and challenges," <em>2019 IEEE Region 10 Symposium (TENSYMP)</em>, Kolkata, India, 2019, pp. 367-372, <a href="https://doi.org/10.1109/TENSYMP46218.2019.8971375" style="color: #FF4500; text-decoration: none;" target="_blank">[doi]</a></li>
-</ol>
+
 
 <H2 style="color: #1E90FF; font-family: 'Arial', sans-serif;">Dissertation</H2>
 <ol style="line-height: 1.8;">
