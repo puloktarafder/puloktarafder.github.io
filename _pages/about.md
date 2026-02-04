@@ -27,6 +27,8 @@ News!
 <ul style="font-family: 'Arial', sans-serif; line-height: 1.8; padding-left: 20px;">
 
 
+<li><span style="color: #1E90FF;">[Jan 2026]</span> My latest paper on Digital Twin + Deep RL for 6G UAV Networks titled "Digital-Twin Empowered Deep Reinforcement Learning for Site-Specific Radio Resource Management in NextG Wireless Aerial Corridors" is on arXiv. <a href="https://arxiv.org/abs/2602.03801" target="_blank"><strong>[Paper Link]</strong></a></li>
+
   <li><span style="color: #ff621e;">[Dec. 2025]</span> I am serving as a reviewer for IEEE Wireless Communications Letters. </li>
 
 
