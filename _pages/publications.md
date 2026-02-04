@@ -19,8 +19,7 @@ Resource Management in 5G Aerial Corridor," <em>IEEE Military Communications Con
 <H2 style="color: #1E90FF; font-family: 'Arial', sans-serif;">Journals</H2>
 <ol style="line-height: 1.8;">
 
-   <li><strong>Pulok Tarafder</strong>, Imtiaz Ahmed, Danda B. Rawat, Md. Zoheb Hassan, Kamrul Hasan, "Deep Reinforcement Learning assisted Digital-Twin Empowered Radio
-Resource Management in 5G Aerial Corridor," <em>In preperation for IEEE Journal</em>
+   <li><strong>Pulok Tarafder</strong>, Imtiaz Ahmed, Danda B. Rawat, Md. Zoheb Hassan, Kamrul Hasan, and Cong Pu, "Digital-Twin Empowered Deep Reinforcement Learning For Site-Specific Radio Resource Management in NextG Wireless Aerial Corridor," <em>Submitted in IEEE Journal</em>
   <li> <strong>Pulok Tarafder</strong>, Chanjun Chun, Arif Ullah, Yonggang Kim, and Wooyeol Choi, "Channel Estimation in 5G-and-Beyond Wireless Communication: A Comprehensive Survey," <em>Electronics</em>, vol. 14, no. 4, February 2025 (IF: 2.6 / JCR 2022) <a href="https://mdpi.com/2079-9292/14/4/750" style="color: #FF4500; text-decoration: none;" target="_blank">[doi]</a></li>
   
   <li>Islam Helmy, <strong>Pulok Tarafder</strong> and Wooyeol Choi, "LSTM-GRU model-based channel prediction for one-bit massive MIMO system," <em>IEEE Transactions on Vehicular Technology</em>, vol. 72, no. 8, August 2023. (IF: 6.8 / JCR 2022) <a href="https://ieeexplore.ieee.org/document/10089512" style="color: #FF4500; text-decoration: none;" target="_blank">[doi]</a></li>
