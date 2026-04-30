@@ -42,11 +42,7 @@ News!
 
   <li><span style="color: #ff621e;">[Apr. 2025]</span> I have been awarded the prestigious <strong> Ernest E. Just-Percy L. Julian Graduate Research Assistant fellowship </strong> for the 2025-2026 academic year [only 20 students are awarded each year at HU]. </li>
 
-  <li><span style="color: #ff621e;">[Jan. 2025]</span> I have been awarded the prestigious <strong> Fellowship at NSF CyberPowder Fellows Program 2025, University of Utah </strong>. </li>
-
-Fellowship at NSF CyberPowder Fellows Program, University of Utah
-(Jan. 2025 - Apr. 2025)
-
+  <li><span style="color: #ff621e;">[Jan. 2025]</span> I have been awarded the prestigious <strong> Fellowship at NSF CyberPowder Fellows Program 2025, University of Utah </strong>. (Jan. 2025 - Apr. 2025) </li>
 
   <li><span style="color: #ff621e;">[Sept. 2024]</span> <strong>My first PhD paper</strong> has been accepted to the <strong>IEEE Military Communications Conference (MILCOM)</strong>, Washington, DC.</li>
 
