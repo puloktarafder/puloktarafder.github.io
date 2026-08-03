@@ -28,6 +28,8 @@ News!
 
 <li><span style="color: #1E90FF;">[July 2026]</span> My latest research on W-Band Digital Twin Channel Calibration titled "Calibrating the Digital Twin Channel: Statistics-Consistent Sim-to-Lab Adaptation for W-Band Industrial OFDM Links" is on arXiv. <a href="https://arxiv.org/abs/2607.26501" target="_blank"><strong>[Paper Link]</strong></a></li>
 
+<li><span style="color: #ff621e;">[July 2026]</span> I am serving as a reviewer for IEEE Transactions on Wireless Communications and IEEE Transactions on Vehicular Technology. </li>
+
 <li><span style="color: #1E90FF;">[Jan 2026]</span> My latest paper on Digital Twin + Deep RL for 6G UAV Networks titled "Digital-Twin Empowered Deep Reinforcement Learning for Site-Specific Radio Resource Management in NextG Wireless Aerial Corridors" is on arXiv. <a href="https://arxiv.org/abs/2602.03801" target="_blank"><strong>[Paper Link]</strong></a></li>
 
   <li><span style="color: #ff621e;">[Dec. 2025]</span> I am serving as a reviewer for IEEE Wireless Communications Letters. </li>
